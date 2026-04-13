@@ -11,7 +11,7 @@ function App() {
 
   return (
     <div style={{ textAlign: "center", marginTop: "50px" }}>
-      <h1>Docker App 🚀</h1>
+      <h1>viideeo application automation</h1>
       <p>{msg}</p>
     </div>
   );
